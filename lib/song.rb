@@ -15,6 +15,7 @@ class Song
     self.all << song
     song
   end
+<<<<<<< HEAD
 
   def self.new_by_name(title)
     song = self.new
@@ -70,4 +71,6 @@ class Song
     all
   end
   
+=======
+>>>>>>> 5a78068f4d0d952b89dc9f3e0916da37ee126317
 end
